@@ -602,7 +602,7 @@
         "spaceheater": "Aquecedor de ambiente iônico",
         "spaceheaterdsc": "Um dispositivo que aquece o lugar em volta. Pode te deixar um pouco radiado se ficar perto por muito tempo.",
         "xaloris": "Xaloris",
-        "xalorisdsc": "Uma samambaia espinhosa e esponjosa que esquenta o ar em volta para espalhar esporos. Esquenta o lugar em volta, mas respirar muito os esporos não vai te fazer bem.",
+        "xalorisdsc": "Uma samambaia espinhosa e esponjosa que esquenta o ar em volta para espalhar esporos. Esquenta o lugar em volta, mas respirar os esporos por muito tempo pode afetar seu sistema imunológico.",
         "lifepodheater": "Aquecedor de cápsula",
         "lifepodheaterdsc": "Ficará esquentando essa cápsula até o fim dos tempos.",
         "tutorialcraftingbutton": "Botão de reinicio",
@@ -965,13 +965,13 @@
         "hypotension3dsc": "Pressão sanguínea perigosamente baixa, você esta prestes a cair. Tratamento necessário. Isso pode acarretar uma fibrilação. Cheque seus sinais vitais.",
         "hypotension4dsc": "Pressão sanguínea letalmente baixa. Sangue não esta chegando nos seus órgãos. Hipoxia cerebral e morte iminentes.",
         "hypertension1dsc": "Pressão sanguínea levemente alta.",
-        "hypertension2dsc": "Pressão sanguínea moderadamente alta. Dores de cabeça, tontura e olha seu nariz ta sangrando. Olhe seus sinais vitais.",
+        "hypertension2dsc": "Pressão sanguínea moderadamente alta. Dores de cabeça, tontura e olha seu nariz tá sangrando. Olhe seus sinais vitais.",
         "hypertension3dsc": "Pressão sanguínea perigosamente alta, perto de ter serias complicações de saúde. Você se sente terrível. Cheque seus sinais vitais.",
         "hypertension4dsc": "Pressão sanguínea com risco a vida. Risco de AVC. Verifique seus vitais rápido, e cuide qualquer sintoma de derrame.",
         "venom1dsc": "Presença baixa de hemotoxinas no sangue. Algo te mordeu?",
         "venom2dsc": "Hemotoxinas presente na corrente sanguínea, atrapalhando sua coagulação e destruindo células. Cuide os sinais vitais.",
         "venom3dsc": "Grande quantidade de hemotoxina presente no sangue, entupindo sua circulação e destruindo células. Cuide os sinais vitais.",
-        "venom4dsc": "Seu sangue parece mais com chimia do que com algo que deveria te manter vivo.",        
+        "venom4dsc": "Seu sangue parece mais com geleia do que com algo que deveria te manter vivo.",        
         "pain1dsc": "Sentindo dores leves.",
         "pain2dsc": "Com dores médias. Tristeza aumentando lentamente.",
         "pain3dsc": "Parcialmente consciente, mente quase completamente tomada pela dor. Tristeza aumentando.",
@@ -2661,7 +2661,7 @@
                 "Tem algo errado com <limb>...",
                 "Ai! <limb> tá com uma cara estranha!",
                 "Tem algo estranho com <limb>.",
-                "Eu não to sentindo <limb>."
+                "Eu não tô sentindo <limb>."
             ],
             "limbinfected": [
                 "<limb> tá inchando...",
@@ -2922,7 +2922,7 @@
                 "Se cortar os pulsos não acabar comigo, eu vou perfurar cada um dos meus olhos, para nunca precisar ver essas terras horríveis denovo.",
                 "Não sei o que virá pós isso, pelos menos vou poder descansar... Vamos apenas relaxar... Emoções não são necessárias...",
                 "AHHHH! VAI PRA CASA DO CARALHO COM TUDO ISSO! NÃO DA MAIS! DEIXA EU SAIR! JA CHEGA!",
-                "É isso. Tava no meu FODENDO LIMITE! Finalmente fiz isso... Paz. Paz e amor seus fodidos. To FORA.",
+                "É isso. Tava no meu FODENDO LIMITE! Finalmente fiz isso... Paz. Paz e amor seus fodidos. Tô FORA.",
                 "Acabo de fazer a consciente decisão de tirar minha vida, aqui e agora. Até logo, idiotas.",
                 "Eu te disse... EU TE DISSE. Seu imbecil... Porra... Queime no fundo do inferno.",
                 "Minha vida foi tirada quando me enviaram aqui, meu corpo decomposto fará um trabalho melhor. Adeus.",
@@ -2935,11 +2935,11 @@
                 "Assim... Dessa forma mesmo... Vamos aproveitar meus últimos momentos de vida... Relaxar e... Cair no sono... Uma, última vez...",
                 "Espero que esteja feliz com o que fez. Bostão. Foda-se você. Pro inferno, vai se fuder!.",
                 "Lá se vai meu pulso... Tudo isso, ja vai chegar ao fim... Haha...",
-                "Vão tomar no cu. VÃO, SE, FODER. To FARTO DISSO. PRA MIM TERMINA AQUI!",
-                "EU, TO, SAINDO, quer eu possa ou NÃO. VÃO SE FODER.",
+                "Vão tomar no cu. VÃO, SE, FODER. Tô FARTO DISSO. PRA MIM TERMINA AQUI!",
+                "EU, TÔ, SAINDO, quer eu possa ou NÃO. VÃO SE FODER.",
                 "FODA-SE. Essa PORRA ACABOU! Leve-me ao inferno.",
                 "Pro inferno com essa missão. Pedaço de merda. Ja fiz minha parte. Ja chega. Ja chega. Ja chega. Ja chega. Ja chega. Ja chega.",
-                "Bosta... Ta tudo tããoo exaustivo... a foda-se...",
+                "Bosta... Tá tudo tããoo exaustivo... a foda-se...",
                 "É a gota d'água. Espero não queimar no inferno por isso.",
                 "Que eles encontrem a vala com meu cadáver seco. Como se isso importasse.",
                 "Nada disso importa. É uma missão suicida. E nem FODENDO QUE EU CONTINUO!",
@@ -2951,7 +2951,7 @@
                 "Eu mesmo vou acabar com isso. Me perdoe mas, eu não... não aguento mais nada. MIL DESCULPAAAS!",
                 "Espero acabar no inferno. Deve ser melhor que esse lugar podre. Não consigo mais. Desculpe, mas, FODA-SE tudo isso.",
                 "Adeus. Chega. Verei a todos do outro lado, nas profundezas do inferno.",
-                "Foda-se esse lugar. Foda-se isso. VAI. SE. FUDE! TO CHEIO! CHEIO DE TUDO!",
+                "Foda-se esse lugar. Foda-se isso. VAI. SE. FUDE! TÔ CHEIO! CHEIO DE TUDO!",
                 "Me desculpe mas... eu tô fora. Adeus. Sinto muito, MUITO MESMO. Eu não consigo."
             ],
             "refuse": [
@@ -3086,7 +3086,7 @@
                 "Awww... Triste de se ver.",
                 "Eu sabia que havia mais de nós aqui...",
                 "Vai tudo ficar bem... tudo se mantera bem.",
-                "Oh caralho. Ta morto...",
+                "Oh caralho. Tá morto...",
                 "*Suspiro*",
                 "*Entristece*",
                 "Alguém devia dar á eles um enterro digno.",
@@ -3264,7 +3264,7 @@
                 "Eu tô cansando desse inferno.",
                 "Algo pra me gelar seria maravilhoso!",
                 "Dessa forma vou acabar sendo cozinhado vivo...",
-                "Eu to, fervendo aqui... ugh.",
+                "Eu tô, fervendo aqui... ugh.",
                 "Uou, tá um FORNO!",
                 "Quente...",
                 "Preciso me resfriar..."
@@ -3609,7 +3609,7 @@
                 "Eu tô todo coberto de terra.",
                 "Ech... Meu pelo tá todo manchado.",
                 "Acho que eu preciso de um banho.",
-                "Pode ser impressão minha, mas acho que eu to fedendo.",
+                "Pode ser impressão minha, mas acho que eu tô fedendo.",
                 "Toda essa terra em mim... Me sinto um animal.",
                 "Isso não é muito higiênico...",
                 "Será que consigo tomar um banho rápido?",
@@ -3624,7 +3624,7 @@
                 "Deus, eu tô, COBERTO, de lama!",
                 "Meu pelo tá nojento!",
                 "Ugh! Tô sujo dos pés à cabeça.",
-                "Meu pelo ta muito encardido.",
+                "Meu pelo tá muito encardido.",
                 "Me sinto podre. Realmente preciso de um banho, ou algo assim...",
                 "Adoraria um chuveiro!"
             ],
@@ -3638,7 +3638,7 @@
                 "Carregando, demais...",
                 "Eu tô pegando muita coisa...",
                 "Sinto que todas essas coisas serão úteis, mas também sinto um baita peso me atrasando...",
-                "A carga ta um pouco demais...",
+                "A carga tá um pouco demais...",
                 "Eu sinto que essa carga toda esta me atrasando.",
                 "Vamos aliviar o peso um pouco.",
                 "Estou meio sobrecarregado em equipamento.",
@@ -3755,7 +3755,7 @@
                 "Legal!"
             ],
 			"tradergiveitemrefuse": [
-                "Certo... Isso é o suficiente por hoje, minha bolsa ta cheia.",
+                "Certo... Isso é o suficiente por hoje, minha bolsa tá cheia.",
                 "Ei, chega de presentes! Eu não quero dar todo meu estoque pra você."
 			],
             "traderbuy": [
@@ -3774,7 +3774,7 @@
             ],
 			 "traderbuyfailmaxvalue": [
                 "Desculpe, isso é tudo que estou disposto a dar agora.",
-                "To sem estoque! Sinto muito! Você ja pegou tanta coisa..."
+                "Tô sem estoque! Sinto muito! Você ja pegou tanta coisa..."
             ],
             "traderwarning": [
                 "Vai embora.",
@@ -3900,7 +3900,7 @@
                 "Não.. Não.... N-não... Por favor... Por favor... Eu não... E-Eu não quero m-morrer... Socorro...",
                 "Ffhh... Gh.... Socorro... Por favor... Alguém...",
                 "Nhh... Assim não... Por favor... P-Por favor... Socorro...",
-                "Por favor... Eu não... Eu não quero morrer... Me ajuda... Alguém... Qualquer... E-eu não to p-pronto...",
+                "Por favor... Eu não... Eu não quero morrer... Me ajuda... Alguém... Qualquer... E-eu não tô p-pronto...",
                 "T-Tudo vai acabar.. Em b-breve..?",
                 "Para... Para... Para... Por favor... P-para... Não d-desse jeito... Socorro...",
                 "Porra... Porra... Me ajuda... Eu não... Quero m-morrer... H-h.."
@@ -4280,7 +4280,7 @@
             ],
             "traderwarning": [
                 "SA-IA! Ou Mor-dida! A-gora!",
-                "Mnnnhh... Pre-sa ta pe-dindo p-or isso...",
+                "Mnnnhh... Pre-sa tá pe-dindo p-or isso...",
                 "Gghhrr! VA-I... EMBORA...",
                 "F-ique... lon-ge! B-em longe...",
                 "Du-no DE-TESTA amigo!",
@@ -4437,7 +4437,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "eu cai. MUITO. minha perna ta arruinada. isso é muito ruim. tentar me mexer doi muito. eu preciso de analgesicos pra isso.",
+                "Item1": "eu cai. MUITO. minha perna tá arruinada. isso é muito ruim. tentar me mexer doi muito. eu preciso de analgésicos pra isso.",
                 "Item2": "Sprites/noteDrawings/brokenleg",
                 "Item3": "experiment"
             },
@@ -4983,7 +4983,7 @@
             "Item2": ""
         },
         {
-            "Item1": "(Ao você tocar o ADP algumas vezes, ele começa a inicializar em modo de emergência.)\n\n[MENSAGEM INTERNA]\n[ADVO <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCAL: ADVOCACIA O<corrupt:0xFFFFFF> \nDATA: <corrupt:0xFBC00F>\nDONO DECLARADO: Advogado <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMENSAGEM NA REDE DE COMUNICAÇÃO INTERNA\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFFFFFF><>\n\nIsso é maluquice. Esses pedidos enormes de comidas e ingredientes diferentes, trouxeram tanta atenção desnecessária pra gente que a porra d <corrupt:0xFA05F2> pra nós. Vocês entendem que se o governo descobrir sobre os híbridos acabou pra gente? Eu consigo explicar a água ou as bananas, porra dá até pra explicar aqueles tanques de leite achocolatado sem problema. Sabe o que não vai ser tão fácil de explicar? O PORQUE DE 2 SEMI CAMINHÕES CHEIOS DE COMIDA DE CACHORRO FORAM DESCARREGADOS ESSA NOITE PELOS ARMAZÉNS. O que que eu deveria dizer pra <corrupt:0xFA05F2>  didos estranhos? \"Ah relaxa, é que a empresa tinha declarado lucros recordes esse ano e queria estocar comida pro futuro\". Eu não to brincando, essa foi uma das ideias que eu ouvi d <corrupt:0xFFFFFF> É como se essas pessoas fossem surdas e não conseguissem ouvir suas próprias ideias imbecis. Como assim \"estocar comida\"? Nós temos no máximo <corrupt:0xFFFFFF> orros nesse local, esse único pedido já seria suficiente pra alimentar eles, seus filhotes e os filhotes dos seus filhotes. Vamos ter que improvisar, contar pra eles sobre bioenergia, confundir seus executivos idosos com linguajar profissional e fingir que a maioria desses <corrupt:0xFBC00F> reatores. Não podemos ter descuidos aqu \n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE FALHA DE MEMÓRIA DE ACESSO ALEATÓRIO><>\n\n(O ADP desliga com barulhos desagrádaveis acompanhando ele.)",
+            "Item1": "(Ao você tocar o ADP algumas vezes, ele começa a inicializar em modo de emergência.)\n\n[MENSAGEM INTERNA]\n[ADVO <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCAL: ADVOCACIA O<corrupt:0xFFFFFF> \nDATA: <corrupt:0xFBC00F>\nDONO DECLARADO: Advogado <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMENSAGEM NA REDE DE COMUNICAÇÃO INTERNA\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFFFFFF><>\n\nIsso é maluquice. Esses pedidos enormes de comidas e ingredientes diferentes, trouxeram tanta atenção desnecessária pra gente que a porra d <corrupt:0xFA05F2> pra nós. Vocês entendem que se o governo descobrir sobre os híbridos acabou pra gente? Eu consigo explicar a água ou as bananas, porra dá até pra explicar aqueles tanques de leite achocolatado sem problema. Sabe o que não vai ser tão fácil de explicar? O PORQUE DE 2 SEMI CAMINHÕES CHEIOS DE COMIDA DE CACHORRO FORAM DESCARREGADOS ESSA NOITE PELOS ARMAZÉNS. O que que eu deveria dizer pra <corrupt:0xFA05F2>  didos estranhos? \"Ah relaxa, é que a empresa tinha declarado lucros recordes esse ano e queria estocar comida pro futuro\". Eu não tô brincando, essa foi uma das ideias que eu ouvi d <corrupt:0xFFFFFF> É como se essas pessoas fossem surdas e não conseguissem ouvir suas próprias ideias imbecis. Como assim \"estocar comida\"? Nós temos no máximo <corrupt:0xFFFFFF> orros nesse local, esse único pedido já seria suficiente pra alimentar eles, seus filhotes e os filhotes dos seus filhotes. Vamos ter que improvisar, contar pra eles sobre bioenergia, confundir seus executivos idosos com linguajar profissional e fingir que a maioria desses <corrupt:0xFBC00F> reatores. Não podemos ter descuidos aqu \n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE FALHA DE MEMÓRIA DE ACESSO ALEATÓRIO><>\n\n(O ADP desliga com barulhos desagrádaveis acompanhando ele.)",
             "Item2": ""
         },
         {
